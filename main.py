@@ -23,7 +23,7 @@ def read_root():
 @app.get("/profile")
 def get_profile():
     return {
-        "name": "SentiosTech",
+        "name": "hitman",
         "role": "Backend Engineer in Training",
         "background": "Electromechanical Engineer",
         "current_role": "Data Analyst",
