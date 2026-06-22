@@ -1,6 +1,6 @@
 # Hello Backend API
 
-Mi primera API REST construida con FASTAPI como parte de mi viaje para convertirme en Backend Engineer
+My first REST API built with FASTAPI as part of my journey to become a Backend Engineer.
 
 ## Objetive
 
